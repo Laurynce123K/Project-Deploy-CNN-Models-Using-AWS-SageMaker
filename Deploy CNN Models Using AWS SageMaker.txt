@@ -1,0 +1,23 @@
+Deploy CNN Models Using AWS SageMaker
+DESCRIPTION
+
+You’re a Computer Vision engineer at style.ai. Your company is developing a deep learning application for e-commerce platforms that can classify the clothing items. A team of interns have been tasked with scraping image data from the client platforms and labeling the collected data. The DevOps engineers are evaluating various deployment options to create an inference endpoint. You’re asked to build a proof of concept using the fashion-mnist dataset and AWS SageMaker. You have to define a CNN model using Keras or TensorFlow and train and deploy the model on SageMaker.
+
+Objective: Use AWS SageMaker to train and deploy a CNN model that classifies the fashion-mnist dataset.
+
+Domain: Computer Vision
+
+Prerequisites:
+
+Python                                                                 
+TensorFlow
+Keras
+AWS SageMaker
+
+Steps to perform:
+
+Download and preprocess the dataset
+Define the model architecture using TensorFlow and Keras
+Train the model
+Save the model weights
+Deploy the model
